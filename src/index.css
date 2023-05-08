@@ -18,7 +18,9 @@ a{
 a:hover{
     background-color: rgb(128, 128, 213);
     padding: 10px;
-    border: rou;
+    border-radius: 15%;
+
 
     
 }
+

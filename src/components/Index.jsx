@@ -15,10 +15,9 @@ const Index =  () => {
 
                 </ul>
             </nav>
-            <p>
-                
-
-            </p>
+           <section className='fondo'>
+            <img src='../src/img/fondo.jpg' alt='fondo'/>
+           </section>
         </section>
 
     );
