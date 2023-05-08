@@ -1,0 +1,22 @@
+[
+    {
+    id: 1,
+    nombre: "caja",
+    valor: "20000"
+    },
+    {
+        id: 1,
+        nombre: "caja",
+        valor: "20000"
+    },
+    {
+    id: 1,
+    nombre: "caja",
+    valor: "20000"
+    },
+    {
+                id: 1,
+                nombre: "caja",
+                valor: "20000"
+    }
+]
